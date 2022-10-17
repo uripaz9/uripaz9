@@ -1,6 +1,6 @@
 ### 👋 Hello!
 
-I'm Uri, Head of UX at Wix / Velo.
+I'm Uri, Head of UX at Wix (Wix Code).
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40_uripaz-1d9bf0.svg)](https://twitter.com/_uripaz)
 [![LinkedIn](https://img.shields.io/badge/Linked-In-0c66c3.svg)](https://www.linkedin.com/in/uri-paz/)
