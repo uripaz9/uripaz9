@@ -7,5 +7,3 @@ I'm Uri, Head of UX at Wix (Wix Code).
 [![GitHub](https://img.shields.io/badge/GitHub-%40uripaz9-09b43a.svg)](https://github.com/uripaz9)
 
 [More about me &rarr;](https://www.uri-paz.com/)
-
-![Image of Uri](https://github.com/uripaz9/uripaz9/blob/main/uri_%20octocat.png)
